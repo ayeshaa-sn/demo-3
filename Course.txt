@@ -1,0 +1,2 @@
+cse101,oop,theory,3,1
+cse102,oop,lab,1.5,1

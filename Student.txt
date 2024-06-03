@@ -1,0 +1,3 @@
+101,A,iut,res,1234
+102,B,iut,non res,123454
+103,C,iut,res,1234625
